@@ -1,2 +1,2 @@
-# Machine-Learning---scikit-learn
+# Machine-Learning-scikit-learn
 Practice concepts using scikit learn
