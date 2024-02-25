@@ -10,9 +10,4 @@ Practice concepts using scikit learn
       1.3 Ridge regression and classifier
 
 
-WITH combined_inventory AS (
-    SELECT *, 'inventory_part1' as partition FROM inventory_part1
-    UNION ALL
-    SELECT *, 'inventory_part2' as partition FROM inventory_part2
-)
-SELECT * FROM combined_inventory WHERE category = 'Dresses';
+
